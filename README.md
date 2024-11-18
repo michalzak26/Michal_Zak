@@ -1,4 +1,4 @@
-# Moje CV 
+# MICHAŁ ŻAK
 Zapraszam do kontaktu w sprawie współpracy lub jeśli masz jakiekolwiek pytania dotyczące moich umiejętności!
   -- Kontakt: zak.michal@outlook.com --  
 

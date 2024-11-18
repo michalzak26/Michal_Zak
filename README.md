@@ -7,6 +7,7 @@ Jestem elastyczny i dostosowuję się do wymagań każdego zadania, dbając o te
 Charakteryzuję się komunikatywnością, odpowiedzialnością oraz dobrą organizacją.
 
 To repozytorium przedstawia moje doświadczenie zawodowe, umiejętności oraz projekty, nad którymi pracowałem. 
+
 Dokument jest na bieżąco aktualizowany, aby odzwierciedlać moje najnowsze osiągnięcia oraz rozwój kariery.
 
 

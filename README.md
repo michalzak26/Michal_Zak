@@ -10,7 +10,7 @@ To repozytorium przedstawia moje doświadczenie zawodowe, umiejętności oraz pr
 Dokument jest na bieżąco aktualizowany, aby odzwierciedlać moje najnowsze osiągnięcia oraz rozwój kariery.
 
 
- -- UMIEJĘTNOŚCI -- 
+# UMIEJĘTNOŚCI 
 
 Języki programowania: HTML, CSS, JavaScript, SQL
 Narzędzia i technologie: Cypress, Git, JSON, Postman
@@ -19,7 +19,7 @@ Montaż i serwis sprzętu komputerowego: instalacja, konfiguracja i diagnozowani
 Angielski: znajomość na poziomie pozwalającym na czytanie i rozumienie dokumentacji, regularnie doskonalony.  
 
 
- -- EGZAMINY I CERTYFIKATY -- 
+# EGZAMINY I CERTYFIKATY 
  
 Egzaminy potwierdzający kwalifikacje w zawodzie:
 -	EE.08. Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci

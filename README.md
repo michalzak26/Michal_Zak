@@ -1,6 +1,5 @@
-# MICHAŁ ŻAK
-Zapraszam do kontaktu w sprawie współpracy lub jeśli masz jakiekolwiek pytania dotyczące moich umiejętności!
-  -- Kontakt: zak.michal@outlook.com --  
+# MICHAŁ ŻAK / Kontakt: zak.michal@outlook.com 
+Zapraszam do kontaktu w sprawie współpracy lub jeśli masz jakiekolwiek pytania dotyczące moich umiejętności!  
 
 Cześć nazywam się Michał jestem ambitnym pracownikiem, który rozwija swoją karierę w branży testerskiej. 
 Cenię wyzwania i traktuję pracę jako przestrzeń do codziennej nauki, zdobywania wiedzy oraz budowania relacji zawodowych.
@@ -21,6 +20,7 @@ Angielski: znajomość na poziomie pozwalającym na czytanie i rozumienie dokume
 
 
  -- EGZAMINY I CERTYFIKATY -- 
+ 
 Egzaminy potwierdzający kwalifikacje w zawodzie:
 -	EE.08. Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci
 -	EE.09. Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych

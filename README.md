@@ -12,11 +12,11 @@ Dokument jest na bieżąco aktualizowany, aby odzwierciedlać moje najnowsze osi
 
 # UMIEJĘTNOŚCI 
 
-Języki programowania: HTML, CSS, JavaScript, SQL
-Narzędzia i technologie: Cypress, Git, JSON, Postman
-Testowanie oprogramowania: wiedza z zakresu testów manualnych oraz podstawy testów automatycznych z użyciem Cypress
-Montaż i serwis sprzętu komputerowego: instalacja, konfiguracja i diagnozowanie usterek komputerów oraz urządzeń peryferyjnych (drukarki, skanery)
-Angielski: znajomość na poziomie pozwalającym na czytanie i rozumienie dokumentacji, regularnie doskonalony.  
+- Języki programowania: HTML, CSS, JavaScript, SQL
+- Narzędzia i technologie: Cypress, Git, JSON, Postman
+- Testowanie oprogramowania: wiedza z zakresu testów manualnych oraz podstawy testów automatycznych z użyciem Cypress
+- Montaż i serwis sprzętu komputerowego: instalacja, konfiguracja i diagnozowanie usterek komputerów oraz urządzeń peryferyjnych (drukarki, skanery)
+- Angielski: znajomość na poziomie pozwalającym na czytanie i rozumienie dokumentacji, regularnie doskonalony.  
 
 
 # EGZAMINY I CERTYFIKATY 

@@ -1,0 +1,31 @@
+Feature: Zakup produktu w sklepie X-Kom
+
+  Scenario: Wyszukiwanie i zakup produktu
+    Given Użytkownik jest zalogowany na swoje konto w sklepie X-Kom
+    When Użytkownik wpisuje "smartfon" w pasku wyszukiwania
+    And Użytkownik klika przycisk "Szukaj"
+    Then Użytkownik powinien zobaczyć listę produktów związanych z "smartfon"
+
+    When Użytkownik wybiera pierwszy produkt z listy
+    And Użytkownik klika przycisk "Dodaj do koszyka"
+    Then Użytkownik powinien zobaczyć komunikat "Dodano do koszyka"
+
+    When Użytkownik klika przycisk "Przejdź do koszyka"
+    Then Użytkownik powinien zobaczyć podsumowanie koszyka
+
+    When Użytkownik klika przycisk "Przejdź do kasy"
+    Then Użytkownik powinien zobaczyć podsumowanie zamówienia
+
+    When Użytkownik wprowadza dane płatności
+    And Użytkownik wybiera metodę dostawy
+    And Użytkownik klika przycisk "Potwierdź zakup"
+    Then Użytkownik powinien zobaczyć komunikat "Zakup został zrealizowany"
+
+  Scenario: Walidacja zakupu
+    Given Użytkownik jest zalogowany na swoje konto w sklepie X-Kom
+    When Użytkownik przechodzi do sekcji "Moje zamówienia"
+    Then Użytkownik powinien zobaczyć listę swoich zamówień
+    And Użytkownik wybiera ostatnie zamówienie
+    Then Użytkownik powinien zobaczyć szczegóły zamówienia
+    And Użytkownik powinien zobaczyć status "Zrealizowane"
+    And Użytkownik powinien zobaczyć szczegóły produktu, takie jak nazwa, cena i data zakupu

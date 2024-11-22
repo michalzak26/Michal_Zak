@@ -25,6 +25,7 @@ Dokument jest na bieżąco aktualizowany, aby odzwierciedlać moje najnowsze osi
 Egzaminy potwierdzający kwalifikacje w zawodzie:
 -	EE.08. Montaż i eksploatacja systemów komputerowych, urządzeń peryferyjnych i sieci
 -	EE.09. Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych
+  
 Certyfikaty:
 -	QA Manual course at GoIT 
 -	QA Automation course at GoIT 
